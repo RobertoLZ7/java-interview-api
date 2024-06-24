@@ -1,0 +1,2 @@
+INSERT INTO widgets (name, description, price) values ('SmartPhone', 'Cellular telephone with an integrated computer and other features not originally associated with telephones, such as an operating system (OS), web browsing and the ability to run software applications.', 400.00);
+INSERT INTO widgets (name, description, price) values ('Headset', 'device that allows you to listen to audio and communicate with others using a combination of earphones (or speakers) and a microphone.', 50.99)
