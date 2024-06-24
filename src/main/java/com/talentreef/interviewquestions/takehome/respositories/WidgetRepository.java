@@ -9,5 +9,5 @@ import java.util.Optional;
 
 @Repository
 public interface WidgetRepository extends JpaRepository<Widget, String> {
-    Optional<Widget> findByName(String name);
+    Optional<Widget> findByNameIgnoreCase(String name);
 }
