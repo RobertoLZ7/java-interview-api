@@ -1,6 +1,6 @@
 # TalentReef Java API Interview exercise
 
-This is my aproach to complete the interview exercise provided. I took the template proyect as the base so all the requirements and scripts should remain the same.
+This is my approach to complete the interview exercise provided. I took the template project as the base so all the requirements and scripts should remain the same.
 
 ## Requirements
 
@@ -24,5 +24,5 @@ Execute tests using Gradle:
 
 ## Additional Information
 
-This API was build using an H2 in memory database. Meaning the database will we created and populated using the data.sql file found in this repo everytime the app runs.
-To see the database console go to localhost:9000/h2-console once the app is running and log into the database. all the credentials are in the application.yml file
+This API was built using an H2 in-memory database. Meaning the database will we created and populated using the data.sql file found in this repository everytime the app runs.
+To see the database console, go to localhost:9000/h2-console once the app is running and log into the database. all the credentials are in the application.yml file.
