@@ -1,7 +1,5 @@
 # TalentReef Java API Interview exercise
 
-## Description
-
 This is my aproach to complete the interview exercise provided. I took the template proyect as the base so all the requirements and scripts should remain the same.
 
 ## Requirements
