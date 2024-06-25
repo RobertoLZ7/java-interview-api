@@ -1,8 +1,8 @@
-# TalentReef Java API Interview Template
+# TalentReef Java API Interview exercise
 
 ## Description
 
-This [Spring Boot](https://spring.io/projects/spring-boot) project is provided as a starting template for the TalentReef take-home interview. Feel free to make whatever modifications are necessary to complete the exercise.
+This is my aproach to complete the interview exercise provided. I took the template proyect as the base so all the requirements and scripts should remain the same.
 
 ## Requirements
 
@@ -26,4 +26,5 @@ Execute tests using Gradle:
 
 ## Additional Information
 
-TalentReef will provide you the contact information of a person who can answer questions about the exercise.
+This API was build using an H2 in memory database. Meaning the database will we created and populated using the data.sql file found in this repo everytime the app runs.
+To see the database console go to localhost:9000/h2-console once the app is running and log into the database. all the credentials are in the application.yml file
